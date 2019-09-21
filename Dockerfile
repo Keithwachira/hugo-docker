@@ -5,7 +5,7 @@ LABEL description="Docker container for building static sites with the Hugo stat
 LABEL maintainer="keith wachira <keithwachira@gmail.com>"
 
 # config
-ENV HUGO_VERSION=0.53
+ENV HUGO_VERSION=0.58.2
 #ENV HUGO_TYPE=
 ENV HUGO_TYPE=_extended
 
